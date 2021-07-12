@@ -4,7 +4,7 @@
   "description": "",
   "main": "receiver.js",
   "scripts": {
-    "start": "node sender.js"
+    "start": "node index.html"
   },
   "repository": {
     "type": "git",
