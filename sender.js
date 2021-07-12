@@ -1,4 +1,4 @@
-const ws = new WebSocket("ws://127.0.0.1:3000")
+const ws = new WebSocket("ws://ancient-island-71770.herokuapp.com/")
 
 ws.onmessage = (event) => {
     handleSignallingData(JSON.parse(event.data))

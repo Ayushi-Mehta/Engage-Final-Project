@@ -1,12 +1,19 @@
 const Socket = require("websocket").server
-const http = require("http")
+// const http = require("http")
+const express = require('express')
+const cors = require('cors');
 
-const server = http.createServer()
+// const server = http.createServer()
 
-server.listen(3000, () => {
-    console.log("Listening on port 3000...")
-})
+// server.listen(3000, () => {
+//     console.log("Listening on port 3000...")
+// })
+const PORT = process.env.PORT || 3000;
+const INDEX = '/index.html';
 
+const server = express()
+    .use(cors())
+  .listen(PORT, () => console.log(`Listening on ${PORT}`))
 const ws = new Socket({ httpServer: server })
 
 let users = []

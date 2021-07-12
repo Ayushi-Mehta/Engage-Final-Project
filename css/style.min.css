@@ -1,7 +1,4 @@
-/*
- * Roxy: Bootstrap template by GettTemplates.com
- * https://gettemplates.co/roxy
- */
+
 html, body {
   width: 100%;
   overflow-x: hidden; }
@@ -390,18 +387,7 @@ section {
     transform: rotate(-40deg); }
 
 /*=====  End of FORM RECTANGLE ETC  ======*/
-/*================================
-=            FEATURES            =
-================================*/
-.feature-item {
-  transition: all .2s ease-in-out 0s !important; }
-  .feature-item:hover {
-    transform: translateY(-13px); }
 
-.progress-bar {
-  background-color: #ff00cc; }
-
-/*=====  End of FEATURES  ======*/
 /*=============================
 =            TESTI            =
 =============================*/
@@ -598,118 +584,7 @@ section {
   background: transparent;
   color: #fff; }
 
-/*==============================
-=            SKILLS            =
-==============================*/
-.skill-item {
-  width: 100%;
-  position: relative;
-  padding: 10px 0; }
-  .skill-item p {
-    font-size: 16px;
-    text-transform: uppercase;
-    display: inline-block;
-    font-weight: 500; }
-  .skill-item .text-muted {
-    color: #939393; }
 
-.progress-bar, .progress {
-  transition: all 4s; }
-
-/*=====  End of SKILLS  ======*/
-/*============================
-=            BLOG            =
-============================*/
-.blog-item {
-  transition: all 0.3s ease-in-out;
-  background-color: #f7f8f9;
-  border-radius: 3px;
-  overflow: hidden; }
-  .blog-item:hover {
-    box-shadow: 0 5px 15px -5px #333;
-    transform: translateY(-6px);
-    -webkit-transform: translateY(-6px);
-    -moz-transform: translateY(-6px);
-    transform: translateY(-6px);
-    box-shadow: 0 7px 10px rgba(0, 0, 0, 0.15);
-    -moz-box-shadow: 0 7px 10px rgba(0, 0, 0, 0.15);
-    -webkit-box-shadow: 0 7px 10px rgba(0, 0, 0, 0.15); }
-
-.bg-grey .blog-item {
-  background-color: #fff; }
-
-.blog-item-wrapper {
-  margin-bottom: 30px; }
-
-.blog-img img {
-  width: 100%;
-  height: 250px;
-  object-fit: cover; }
-
-.blog-title h4 {
-  color: #000; }
-
-.blog-text {
-  padding: 15px; }
-
-.blog-tag {
-  color: #000;
-  letter-spacing: 1.1px;
-  text-transform: uppercase; }
-
-.blog-meta {
-  color: #939393; }
-  .blog-meta p {
-    display: inline-block;
-    font-size: 14px; }
-  .blog-meta a {
-    color: #939393; }
-
-.blog-author {
-  display: inline-block;
-  color: #939393; }
-  .blog-author p {
-    font-size: 14px;
-    margin-bottom: 0; }
-
-.blog-share-wrapper {
-  float: right;
-  display: inline-block;
-  margin: 0 -5px; }
-  .blog-share-wrapper .blog-share {
-    padding: 0 5px;
-    cursor: pointer; }
-
-.blog-content img.float-left {
-  margin: 15px 15px 15px 0; }
-
-.blog-content .img.float-right {
-  margin: 15px 0 15px 15px; }
-
-/*=====  End of BLOG  ======*/
-/*====================================
-=            FORM CONTROL            =
-====================================*/
-.form-control:focus {
-  border-color: #ff00cc;
-  box-shadow: 0 0 0 0.2rem rgba(253, 101, 90, 0.25); }
-
-.form-control::-webkit-input-placeholder {
-  opacity: .5; }
-
-.form-control::-moz-placeholder {
-  opacity: .5; }
-
-.form-control:-ms-input-placeholder {
-  opacity: .5; }
-
-.form-control::-ms-input-placeholder {
-  opacity: .5; }
-
-.form-control::placeholder {
-  opacity: .5; }
-
-/*=====  End of FORM CONTROL  ======*/
 /*==============================
 =            CLIENT            =
 ==============================*/
