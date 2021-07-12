@@ -2,9 +2,9 @@
   "name": "package",
   "version": "1.0.0",
   "description": "",
-  "main": "receiver.js",
+  "main": "index.html",
   "scripts": {
-    "start": "node index.html"
+    "start": "node server/server.js"
   },
   "repository": {
     "type": "git",
@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/Ayushi-Mehta/Engage-Final-Project#readme",
   "dependencies": {
-    "express": "^4.17.1",
     "bufferutil": "^4.0.3",
     "cors": "^2.8.5",
+    "express": "^4.17.1",
     "utf-8-validate": "^5.0.5",
     "websocket": "^1.0.34",
     "ws": "^7.5.3"
