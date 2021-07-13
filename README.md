@@ -29,3 +29,9 @@ Option 1: Follow these Instructions - <br>
         &emsp;&emsp;&emsp;  Step 9 : Click "Allow" on the prompt for audio and video access. <br>
         &emsp;&emsp;&emsp;  Step10 : Enjoy interrupted video call ! <br><br>
 Option 2: Follow this Youtube Tutorial : <br>
+
+
+# Agile Methodology
+
+![image](https://user-images.githubusercontent.com/75256448/125465279-98f3ec7e-2058-46b8-b4e7-530550a55af5.png)
+
