@@ -20,11 +20,12 @@ The STUN server then sets up a peer to peer connection between the two and then 
 Option 1: Follow these Instructions - <br>
         &emsp;&emsp;&emsp;  Step 1 : Open the master branch and download its ZIP file. <br>
         &emsp;&emsp;&emsp;  Step 2 : Once the file is downloaded, just open the file named "index.html". <br>
-        &emsp;&emsp;&emsp;  Step 3 : To start a new video call room, go to "Start Call". Enter your "room name", press "send" and then press "start". <br>
-        &emsp;&emsp;&emsp;  Step 4 : Click "Allow" on the prompt for audio and video access. <br>
-        &emsp;&emsp;&emsp;  Step 5 : Send the room name to your friend who wants to join the call. <br>
-        &emsp;&emsp;&emsp;  Step 6 : Ask your friend to follow Steps 1 and 2. <br>
-        &emsp;&emsp;&emsp;  Step 7 : To join call, go to "Join Call". Enter the room name sent by your friend and press "Join Call". <br>
-        &emsp;&emsp;&emsp;  Step 8 : Click "Allow" on the prompt for audio and video access. <br>
-        &emsp;&emsp;&emsp;  Step 9 : Enjoy interrupted video call ! <br><br>
+        &emsp;&emsp;&emsp;  Step 3 : To start a new video call room, go to "Start Call". <br> 
+        &emsp;&emsp;&emsp;  Step 4 : Enter your "room name", press "send" and then press "start". <br>
+        &emsp;&emsp;&emsp;  Step 5 : Click "Allow" on the prompt for audio and video access. <br>
+        &emsp;&emsp;&emsp;  Step 6 : Send the room name to your friend who wants to join the call. <br>
+        &emsp;&emsp;&emsp;  Step 7 : Ask your friend to follow Steps 1 and 2. <br>
+        &emsp;&emsp;&emsp;  Step 8 : To join call, go to "Join Call". Enter the room name sent by your friend and press "Join Call". <br>
+        &emsp;&emsp;&emsp;  Step 9 : Click "Allow" on the prompt for audio and video access. <br>
+        &emsp;&emsp;&emsp;  Step10 : Enjoy interrupted video call ! <br><br>
 Option 2: Follow this Youtube Tutorial : <br>
