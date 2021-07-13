@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/75256448/125440878-cf813a2f-802d-430f-930b-7752c5079a4d.png)
 
 The server sends an offer through websocket to the STUN server. When the receiver joins the room with the same room name, he then accepts the offer 
-and sends his own offer for the sender to accept.
+and sends his own offer for the sender to accept. The websocket server is deployed on heroku and can be found here : https://ancient-island-71770.herokuapp.com/
 The STUN server then sets up a peer to peer connection between the two and then they can video call uninterrupted for as long as they want.
 
 # How to use
