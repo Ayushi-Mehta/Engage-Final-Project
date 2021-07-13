@@ -28,7 +28,7 @@ Option 1: Follow these Instructions - <br>
         &emsp;&emsp;&emsp;  Step 8 : To join call, go to "Join Call". Enter the room name sent by your friend and press "Join Call". <br>
         &emsp;&emsp;&emsp;  Step 9 : Click "Allow" on the prompt for audio and video access. <br>
         &emsp;&emsp;&emsp;  Step10 : Enjoy interrupted video call ! <br><br>
-Option 2: Follow this Youtube Tutorial : <br>
+Option 2: Follow this Youtube Tutorial : https://www.youtube.com/watch?v=eOs089sYn1U <br>
 
 
 # Agile Methodology
